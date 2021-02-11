@@ -11,5 +11,6 @@ sintaxis
 La unidad 3 introdujo a los **controladores de versiones** con una practica de Github.
 
 
+# Unidad 3, me costo, pero al final lo entendi
 
-Unidad 3, me costo, pero al final lo entendi
+Al final terminamos el curso
